@@ -1,4 +1,4 @@
-// Aim: 1.1.1. Area of Circle - Algorithm and Flowchart
+#Aim: 1.1.1. Area of Circle - Algorithm and Flowchart
 
 
 r = float(input('Enter the radius : '))
